@@ -10,7 +10,7 @@
 # Copyright (c) 2004-2006 John Gruber  
 # <https://daringfireball.net/projects/markdown/>
 #
-namespace Michelf;
+namespace Cake3xMarkdown\Vendor\PhpMarkdown\Michelf;
 
 
 #
